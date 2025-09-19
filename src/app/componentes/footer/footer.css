@@ -1,0 +1,8 @@
+p {
+    width: 100;
+    background-color: rgb(134, 80, 184);
+    color: antiquewhite;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}

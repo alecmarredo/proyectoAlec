@@ -1,0 +1,10 @@
+.nav {
+    background-color: rgb(50, 120, 150);
+    width: 100%;
+}
+
+a {
+    color: white;
+    font-size: 25px;
+    margin: 20px;
+}
